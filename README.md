@@ -1,1 +1,1 @@
-# Git_bash_2
+# Git_bash
